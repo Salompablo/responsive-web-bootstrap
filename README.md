@@ -1,2 +1,2 @@
 # responsive-web-bootstrap
- First responsive web using bootstrap' library
+ First responsive web using bootstrap' framework
